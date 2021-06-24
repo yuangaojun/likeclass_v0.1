@@ -1,0 +1,4 @@
+2021-06-18 09:39:44,361 - [test_teacher_requirement.py-->line:68] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-18 09:39:44,927 - [test_teacher_requirement.py-->line:68] - INFO: 提交需求失败-提交需求时间段教师已提交需求--用例断言成功，测试通过
+2021-06-18 10:35:09,685 - [test_teacher_requirement.py-->line:71] - ERROR: 提交需求成功-提交需求时间段教师未提交需求--用例断言失败，测试不通过
+2021-06-18 10:35:10,255 - [test_teacher_requirement.py-->line:68] - INFO: 提交需求失败-提交需求时间段教师已提交需求--用例断言成功，测试通过

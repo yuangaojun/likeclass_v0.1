@@ -1,0 +1,491 @@
+2021-06-23 14:56:28,587 - [test_course_private.py-->line:292] - ERROR: 提交需求成功-提交需求时间段教师未提交需求--用例断言失败，测试不通过
+2021-06-23 15:10:31,670 - [test_course_private.py-->line:292] - ERROR: 提交需求成功-提交需求时间段教师未提交需求--用例断言失败，测试不通过
+2021-06-23 15:12:21,234 - [test_course_private.py-->line:292] - ERROR: 提交需求成功-提交需求时间段教师未提交需求--用例断言失败，测试不通过
+2021-06-23 15:19:04,390 - [test_course_private.py-->line:292] - ERROR: 提交需求成功-提交需求时间段教师未提交需求--用例断言失败，测试不通过
+2021-06-23 15:29:00,763 - [test_course_private.py-->line:290] - ERROR: 提交需求成功-提交需求时间段教师未提交需求--用例断言失败，测试不通过
+2021-06-23 15:32:01,089 - [test_course_private.py-->line:287] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 15:33:31,282 - [test_course_private.py-->line:290] - ERROR: 提交需求成功-提交需求时间段教师未提交需求--用例断言失败，测试不通过
+2021-06-23 15:38:25,781 - [test_course_private.py-->line:291] - ERROR: 提交需求成功-提交需求时间段教师未提交需求--用例断言失败，测试不通过
+2021-06-23 16:02:15,001 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:16:38,190 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:18:01,812 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:18:10,766 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:18:19,870 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:18:28,790 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:18:37,203 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:18:47,948 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:18:56,120 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:19:07,528 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:19:15,995 - [test_course_private.py-->line:288] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:19:25,760 - [test_course_private.py-->line:291] - ERROR: 提交需求成功-提交需求时间段教师未提交需求--用例断言失败，测试不通过
+2021-06-23 16:43:28,030 - [test_course_private.py-->line:289] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 16:44:42,741 - [test_course_private.py-->line:286] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 17:14:55,225 - [test_course_private.py-->line:283] - INFO: 订课成功-预定私教课-无兴趣课程--用例断言成功，测试通过
+2021-06-23 17:16:02,674 - [test_course_private.py-->line:283] - INFO: 订课成功-预定私教课-无兴趣课程--用例断言成功，测试通过
+2021-06-23 17:20:24,074 - [test_course_private.py-->line:283] - INFO: 订课成功-预定私教课-无兴趣课程--用例断言成功，测试通过
+2021-06-23 17:24:10,888 - [test_course_private.py-->line:284] - INFO: 订课成功-预定私教课-无兴趣课程--用例断言成功，测试通过
+2021-06-23 17:37:23,782 - [test_active_contract.py-->line:233] - INFO: 激活成功-激活商品合同协议--用例断言成功，测试通过
+2021-06-23 17:37:26,763 - [test_active_contract.py-->line:233] - INFO: 激活成功-激活商品合同协议传入时间及备注--用例断言成功，测试通过
+2021-06-23 17:37:29,344 - [test_active_contract.py-->line:233] - INFO: 激活失败-合同协议已激活再次进行激活--用例断言成功，测试通过
+2021-06-23 17:37:36,131 - [test_course_private.py-->line:283] - INFO: 订课成功-预定私教课-无兴趣课程--用例断言成功，测试通过
+2021-06-23 17:37:37,229 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定教师isTeacher为否--用例断言成功，测试通过
+2021-06-23 17:37:38,344 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定教师为isTeacher是--用例断言成功，测试通过
+2021-06-23 17:37:39,270 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否固定教师isTeacher为不存在的值--用例断言成功，测试通过
+2021-06-23 17:37:40,096 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否允许选择兴趣课程isInterest为是--用例断言成功，测试通过
+2021-06-23 17:37:41,096 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否允许选择兴趣课程isInterest为否--用例断言成功，测试通过
+2021-06-23 17:37:41,946 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否允许选择兴趣课程isInterest为不存在的值--用例断言成功，测试通过
+2021-06-23 17:37:42,760 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否学员自主订课isStudentBook为否--用例断言成功，测试通过
+2021-06-23 17:37:43,743 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否学员自主订课isStudentBook为不存在的值--用例断言成功，测试通过
+2021-06-23 17:37:44,563 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定上课班级isClasses为是--用例断言成功，测试通过
+2021-06-23 17:37:45,514 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定上课班级isClasses为否--用例断言成功，测试通过
+2021-06-23 17:37:46,635 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否固定上课班级isClasses不为boolean类型--用例断言成功，测试通过
+2021-06-23 17:37:47,500 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否限制课节取消次数 isLimitCancel为否，可取消课节数cancelNumber为空--用例断言成功，测试通过
+2021-06-23 17:37:48,576 - [test_create_product.py-->line:70] - ERROR: 创建商品失败-商品特性是否限制课节取消次数 isLimitCancel为是，可取消课节数cancelNumber为空--用例断言失败，测试不通过
+'E00002' != '000000'
+- E00002
++ 000000
+
+2021-06-23 17:37:49,684 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否限制课节取消次数 为isLimitCancel是，可取消课节数字段cancelNumber不为空-6节--用例断言成功，测试通过
+2021-06-23 17:37:50,620 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期是否延长服务期isDelayPeriod为空--用例断言成功，测试通过
+2021-06-23 17:37:51,589 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期是否延长服务isDelayPeriod为否False--用例断言成功，测试通过
+2021-06-23 17:37:52,380 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期是否延长服务isDelayPeriod不为boolean类型--用例断言成功，测试通过
+2021-06-23 17:37:53,152 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期执行过程中是否可操作冻结isFrozenPeriod为空--用例断言成功，测试通过
+2021-06-23 17:37:54,163 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期执行过程中是否可操作冻结isFrozenPeriod为否False--用例断言成功，测试通过
+2021-06-23 17:37:55,040 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期执行过程中是否可操作冻结isFrozenPeriod不为boolean类型--用例断言成功，测试通过
+2021-06-23 17:37:55,766 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期延长服务期开始天数delayPeriodBefore为空--用例断言成功，测试通过
+2021-06-23 17:37:56,595 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期延长服务期开始天数delayPeriodBefore不为number类型--用例断言成功，测试通过
+2021-06-23 17:37:57,435 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期延长服务期结束天数delayPeriodAfter为空--用例断言成功，测试通过
+2021-06-23 17:37:58,515 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期延长服务期结束天数delayPeriodAfter不为number类型--用例断言成功，测试通过
+2021-06-23 17:37:59,293 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期延时卡可用时间阶段类型delayStageType为空--用例断言成功，测试通过
+2021-06-23 17:38:00,101 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期延时卡可用时间阶段类型delayStageType不为number类型--用例断言成功，测试通过
+2021-06-23 17:38:00,899 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期单次操作最大可冻结服务期的天数frozenPeriod为空--用例断言成功，测试通过
+2021-06-23 17:38:01,786 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期单次操作最大可冻结服务期的天数frozenPeriod不为integer类型--用例断言成功，测试通过
+2021-06-23 17:38:02,553 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期可冻结服务期的次数frozenCount为空 --用例断言成功，测试通过
+2021-06-23 17:38:03,436 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期可冻结服务期的次数frozenCount不为integer类型--用例断言成功，测试通过
+2021-06-23 17:38:04,258 - [test_create_product.py-->line:67] - INFO: 创建商品成功-签约是否允许学员签约时自选上课时间isSignChange为空--用例断言成功，测试通过
+2021-06-23 17:38:05,262 - [test_create_product.py-->line:67] - INFO: 创建商品成功-签约是否允许学员签约时自选上课时间isSignChange为否False--用例断言成功，测试通过
+2021-06-23 17:38:06,106 - [test_create_product.py-->line:67] - INFO: 创建商品失败-签约是否允许学员签约时自选上课时间isSignChange不为boolean类型--用例断言成功，测试通过
+2021-06-23 17:38:07,093 - [test_create_product.py-->line:67] - INFO: 创建商品成功-签约时最多可选择延迟多少天上课signChangeDay为空--用例断言成功，测试通过
+2021-06-23 17:38:08,037 - [test_create_product.py-->line:67] - INFO: 创建商品失败-签约时最多可选择延迟多少天上课signChangeDay不为integer类型--用例断言成功，测试通过
+2021-06-23 17:38:08,840 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许注册免费赠送isRegisterGift为空--用例断言成功，测试通过
+2021-06-23 17:38:09,838 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许注册免费赠送isRegisterGift为否False--用例断言成功，测试通过
+2021-06-23 17:38:10,790 - [test_create_product.py-->line:67] - INFO: 创建商品失败-赠送是否允许注册免费赠送isRegisterGift不为boolean类型--用例断言成功，测试通过
+2021-06-23 17:38:11,525 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许赠送给内部员工体验isStaffGift为空--用例断言成功，测试通过
+2021-06-23 17:38:12,551 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许赠送给内部员工体验isStaffGift为否False--用例断言成功，测试通过
+2021-06-23 17:38:13,483 - [test_create_product.py-->line:67] - INFO: 创建商品失败-赠送是否允许赠送给内部员工体验isStaffGift不为boolean类型--用例断言成功，测试通过
+2021-06-23 17:38:14,229 - [test_create_product.py-->line:70] - ERROR: 创建商品成功-赠送是否允许赠送给内部员工体验为isStaffGift是，赠送频率年giftYear为空--用例断言失败，测试不通过
+'E00002' != '000000'
+- E00002
++ 000000
+
+2021-06-23 17:38:15,167 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许赠送给内部员工体验为isStaffGift是，赠送频率年giftYear不为integer类型--用例断言成功，测试通过
+2021-06-23 17:38:17,408 - [test_import_order.py-->line:205] - INFO: 导入商品订单成功--用例断言成功，测试通过
+2021-06-23 17:38:20,287 - [test_import_order.py-->line:205] - INFO: 导入商品订单成功-区号prefix为空--用例断言成功，测试通过
+2021-06-23 17:38:23,080 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-区号prefix不为string类型--用例断言失败，测试不通过
+2021-06-23 17:38:25,589 - [test_import_order.py-->line:205] - INFO: 导入商品订单失败-手机号mobile为空--用例断言成功，测试通过
+2021-06-23 17:38:28,193 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-手机号mobile不为string类型--用例断言失败，测试不通过
+2021-06-23 17:38:30,489 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-售卖平台订单编号salePlatformOrderNumber为空--用例断言失败，测试不通过
+2021-06-23 17:38:32,736 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-售卖平台订单编号salePlatformOrderNumber不为string类型--用例断言失败，测试不通过
+2021-06-23 17:38:35,028 - [test_import_order.py-->line:205] - INFO: 导入商品订单失败-售卖平台订单编号salePlatformOrderNumber已存在--用例断言成功，测试通过
+2021-06-23 17:38:37,261 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-商品数量quantity为空--用例断言失败，测试不通过
+2021-06-23 17:38:39,692 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-商品数量quantity不为string类型--用例断言失败，测试不通过
+2021-06-23 17:38:41,811 - [test_product_put.py-->line:168] - INFO: 商品上架成功-商品id存在且商品未上架--用例断言成功，测试通过
+2021-06-23 17:38:43,772 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品id为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 17:38:45,326 - [test_product_put.py-->line:168] - INFO: 商品上架失败-商品id不为number类型--用例断言成功，测试通过
+2021-06-23 17:38:46,820 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-现售价为空--用例断言失败，测试不通过
+'业务服务异常，请检查代码.异常信息:null' != '业务服务异常，请检查代码.异常信息'
+- 业务服务异常，请检查代码.异常信息:null
+?                  -----
++ 业务服务异常，请检查代码.异常信息
+
+2021-06-23 17:38:48,451 - [test_product_put.py-->line:168] - INFO: 商品上架失败-现售价不为数字类型--用例断言成功，测试通过
+2021-06-23 17:38:49,985 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-现售价为负数--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 17:38:51,935 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品原单价为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 17:38:53,765 - [test_product_put.py-->line:168] - INFO: 商品上架失败-商品原单价不为number类型--用例断言成功，测试通过
+2021-06-23 17:38:55,427 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品数量为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 17:38:57,405 - [test_product_put.py-->line:168] - INFO: 商品上架成功-商品数量为2--用例断言成功，测试通过
+2021-06-23 17:38:59,350 - [test_product_put.py-->line:168] - INFO: 商品上架失败-商品数量不为number类型--用例断言成功，测试通过
+2021-06-23 17:39:00,859 - [test_product_put.py-->line:168] - INFO: 商品上架成功-商品名称为空--用例断言成功，测试通过
+2021-06-23 17:39:02,561 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品名称不为sting类型--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 17:39:04,249 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-是否立即发货为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 17:39:05,650 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即发货不为number类型--用例断言成功，测试通过
+2021-06-23 17:39:07,036 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即上架为空--用例断言成功，测试通过
+2021-06-23 17:39:08,710 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即上架为否-False，上架时间为空--用例断言成功，测试通过
+2021-06-23 17:39:10,174 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即上架不为布尔值类型--用例断言成功，测试通过
+2021-06-23 17:39:11,439 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-上架商品中文名为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 17:39:12,737 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-上架商品中文名不为string类型--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 17:39:14,419 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-售卖平台id为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 17:39:15,781 - [test_product_put.py-->line:168] - INFO: 商品上架失败-售卖平台id不为number类型--用例断言成功，测试通过
+2021-06-23 17:39:17,077 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-售卖平台商品编号为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 17:39:18,842 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-售卖平台商品编号不为string类型--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 17:39:20,643 - [test_product_put.py-->line:168] - INFO: 商品上架成功-下架时间为空--用例断言成功，测试通过
+2021-06-23 17:39:22,528 - [test_product_put.py-->line:168] - INFO: 商品上架成功-备注为空--用例断言成功，测试通过
+2021-06-23 17:39:24,348 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-销售平台为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 17:39:27,899 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 17:39:28,487 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过
+2021-06-23 18:01:24,958 - [test_active_contract.py-->line:233] - INFO: 激活成功-激活商品合同协议--用例断言成功，测试通过
+2021-06-23 18:01:27,520 - [test_active_contract.py-->line:233] - INFO: 激活成功-激活商品合同协议传入时间及备注--用例断言成功，测试通过
+2021-06-23 18:01:30,021 - [test_active_contract.py-->line:233] - INFO: 激活失败-合同协议已激活再次进行激活--用例断言成功，测试通过
+2021-06-23 18:01:36,002 - [test_course_private.py-->line:283] - INFO: 订课成功-预定私教课-无兴趣课程--用例断言成功，测试通过
+2021-06-23 18:01:37,580 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定教师isTeacher为否--用例断言成功，测试通过
+2021-06-23 18:01:38,513 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定教师为isTeacher是--用例断言成功，测试通过
+2021-06-23 18:01:39,391 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否固定教师isTeacher为不存在的值--用例断言成功，测试通过
+2021-06-23 18:01:40,185 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否允许选择兴趣课程isInterest为是--用例断言成功，测试通过
+2021-06-23 18:01:41,022 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否允许选择兴趣课程isInterest为否--用例断言成功，测试通过
+2021-06-23 18:01:41,923 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否允许选择兴趣课程isInterest为不存在的值--用例断言成功，测试通过
+2021-06-23 18:01:42,649 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否学员自主订课isStudentBook为否--用例断言成功，测试通过
+2021-06-23 18:01:43,485 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否学员自主订课isStudentBook为不存在的值--用例断言成功，测试通过
+2021-06-23 18:01:44,267 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定上课班级isClasses为是--用例断言成功，测试通过
+2021-06-23 18:01:45,226 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定上课班级isClasses为否--用例断言成功，测试通过
+2021-06-23 18:01:46,068 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否固定上课班级isClasses不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:01:46,867 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否限制课节取消次数 isLimitCancel为否，可取消课节数cancelNumber为空--用例断言成功，测试通过
+2021-06-23 18:01:47,827 - [test_create_product.py-->line:70] - ERROR: 创建商品失败-商品特性是否限制课节取消次数 isLimitCancel为是，可取消课节数cancelNumber为空--用例断言失败，测试不通过
+'E00002' != '000000'
+- E00002
++ 000000
+
+2021-06-23 18:01:48,833 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否限制课节取消次数 为isLimitCancel是，可取消课节数字段cancelNumber不为空-6节--用例断言成功，测试通过
+2021-06-23 18:01:49,824 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期是否延长服务期isDelayPeriod为空--用例断言成功，测试通过
+2021-06-23 18:01:50,836 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期是否延长服务isDelayPeriod为否False--用例断言成功，测试通过
+2021-06-23 18:01:51,741 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期是否延长服务isDelayPeriod不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:01:52,540 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期执行过程中是否可操作冻结isFrozenPeriod为空--用例断言成功，测试通过
+2021-06-23 18:01:53,523 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期执行过程中是否可操作冻结isFrozenPeriod为否False--用例断言成功，测试通过
+2021-06-23 18:01:54,371 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期执行过程中是否可操作冻结isFrozenPeriod不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:01:55,153 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期延长服务期开始天数delayPeriodBefore为空--用例断言成功，测试通过
+2021-06-23 18:01:56,068 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期延长服务期开始天数delayPeriodBefore不为number类型--用例断言成功，测试通过
+2021-06-23 18:01:56,852 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期延长服务期结束天数delayPeriodAfter为空--用例断言成功，测试通过
+2021-06-23 18:01:57,721 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期延长服务期结束天数delayPeriodAfter不为number类型--用例断言成功，测试通过
+2021-06-23 18:01:58,529 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期延时卡可用时间阶段类型delayStageType为空--用例断言成功，测试通过
+2021-06-23 18:01:59,398 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期延时卡可用时间阶段类型delayStageType不为number类型--用例断言成功，测试通过
+2021-06-23 18:02:00,187 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期单次操作最大可冻结服务期的天数frozenPeriod为空--用例断言成功，测试通过
+2021-06-23 18:02:01,043 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期单次操作最大可冻结服务期的天数frozenPeriod不为integer类型--用例断言成功，测试通过
+2021-06-23 18:02:01,818 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期可冻结服务期的次数frozenCount为空 --用例断言成功，测试通过
+2021-06-23 18:02:02,702 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期可冻结服务期的次数frozenCount不为integer类型--用例断言成功，测试通过
+2021-06-23 18:02:03,514 - [test_create_product.py-->line:67] - INFO: 创建商品成功-签约是否允许学员签约时自选上课时间isSignChange为空--用例断言成功，测试通过
+2021-06-23 18:02:04,535 - [test_create_product.py-->line:67] - INFO: 创建商品成功-签约是否允许学员签约时自选上课时间isSignChange为否False--用例断言成功，测试通过
+2021-06-23 18:02:05,405 - [test_create_product.py-->line:67] - INFO: 创建商品失败-签约是否允许学员签约时自选上课时间isSignChange不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:02:06,181 - [test_create_product.py-->line:67] - INFO: 创建商品成功-签约时最多可选择延迟多少天上课signChangeDay为空--用例断言成功，测试通过
+2021-06-23 18:02:07,035 - [test_create_product.py-->line:67] - INFO: 创建商品失败-签约时最多可选择延迟多少天上课signChangeDay不为integer类型--用例断言成功，测试通过
+2021-06-23 18:02:07,847 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许注册免费赠送isRegisterGift为空--用例断言成功，测试通过
+2021-06-23 18:02:08,819 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许注册免费赠送isRegisterGift为否False--用例断言成功，测试通过
+2021-06-23 18:02:09,685 - [test_create_product.py-->line:67] - INFO: 创建商品失败-赠送是否允许注册免费赠送isRegisterGift不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:02:10,476 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许赠送给内部员工体验isStaffGift为空--用例断言成功，测试通过
+2021-06-23 18:02:11,464 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许赠送给内部员工体验isStaffGift为否False--用例断言成功，测试通过
+2021-06-23 18:02:12,420 - [test_create_product.py-->line:67] - INFO: 创建商品失败-赠送是否允许赠送给内部员工体验isStaffGift不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:02:13,380 - [test_create_product.py-->line:70] - ERROR: 创建商品成功-赠送是否允许赠送给内部员工体验为isStaffGift是，赠送频率年giftYear为空--用例断言失败，测试不通过
+'E00002' != '000000'
+- E00002
++ 000000
+
+2021-06-23 18:02:14,248 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许赠送给内部员工体验为isStaffGift是，赠送频率年giftYear不为integer类型--用例断言成功，测试通过
+2021-06-23 18:02:16,336 - [test_import_order.py-->line:205] - INFO: 导入商品订单成功--用例断言成功，测试通过
+2021-06-23 18:02:18,967 - [test_import_order.py-->line:205] - INFO: 导入商品订单成功-区号prefix为空--用例断言成功，测试通过
+2021-06-23 18:02:21,529 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-区号prefix不为string类型--用例断言失败，测试不通过
+2021-06-23 18:02:23,633 - [test_import_order.py-->line:205] - INFO: 导入商品订单失败-手机号mobile为空--用例断言成功，测试通过
+2021-06-23 18:02:26,377 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-手机号mobile不为string类型--用例断言失败，测试不通过
+2021-06-23 18:02:28,618 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-售卖平台订单编号salePlatformOrderNumber为空--用例断言失败，测试不通过
+2021-06-23 18:02:30,838 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-售卖平台订单编号salePlatformOrderNumber不为string类型--用例断言失败，测试不通过
+2021-06-23 18:02:33,202 - [test_import_order.py-->line:205] - INFO: 导入商品订单失败-售卖平台订单编号salePlatformOrderNumber已存在--用例断言成功，测试通过
+2021-06-23 18:02:35,356 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-商品数量quantity为空--用例断言失败，测试不通过
+2021-06-23 18:02:37,836 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-商品数量quantity不为string类型--用例断言失败，测试不通过
+2021-06-23 18:02:40,225 - [test_product_put.py-->line:168] - INFO: 商品上架成功-商品id存在且商品未上架--用例断言成功，测试通过
+2021-06-23 18:02:42,001 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品id为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 18:02:43,402 - [test_product_put.py-->line:168] - INFO: 商品上架失败-商品id不为number类型--用例断言成功，测试通过
+2021-06-23 18:02:44,814 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-现售价为空--用例断言失败，测试不通过
+'业务服务异常，请检查代码.异常信息:null' != '业务服务异常，请检查代码.异常信息'
+- 业务服务异常，请检查代码.异常信息:null
+?                  -----
++ 业务服务异常，请检查代码.异常信息
+
+2021-06-23 18:02:46,204 - [test_product_put.py-->line:168] - INFO: 商品上架失败-现售价不为数字类型--用例断言成功，测试通过
+2021-06-23 18:02:47,694 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-现售价为负数--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:02:49,471 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品原单价为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:02:51,240 - [test_product_put.py-->line:168] - INFO: 商品上架失败-商品原单价不为number类型--用例断言成功，测试通过
+2021-06-23 18:02:52,678 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品数量为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:02:54,601 - [test_product_put.py-->line:168] - INFO: 商品上架成功-商品数量为2--用例断言成功，测试通过
+2021-06-23 18:02:56,404 - [test_product_put.py-->line:168] - INFO: 商品上架失败-商品数量不为number类型--用例断言成功，测试通过
+2021-06-23 18:02:57,859 - [test_product_put.py-->line:168] - INFO: 商品上架成功-商品名称为空--用例断言成功，测试通过
+2021-06-23 18:02:59,598 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品名称不为sting类型--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:03:01,347 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-是否立即发货为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 18:03:02,772 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即发货不为number类型--用例断言成功，测试通过
+2021-06-23 18:03:04,193 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即上架为空--用例断言成功，测试通过
+2021-06-23 18:03:05,601 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即上架为否-False，上架时间为空--用例断言成功，测试通过
+2021-06-23 18:03:07,011 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即上架不为布尔值类型--用例断言成功，测试通过
+2021-06-23 18:03:08,402 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-上架商品中文名为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 18:03:09,753 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-上架商品中文名不为string类型--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:03:11,588 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-售卖平台id为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 18:03:13,082 - [test_product_put.py-->line:168] - INFO: 商品上架失败-售卖平台id不为number类型--用例断言成功，测试通过
+2021-06-23 18:03:14,417 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-售卖平台商品编号为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:03:16,190 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-售卖平台商品编号不为string类型--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:03:17,990 - [test_product_put.py-->line:168] - INFO: 商品上架成功-下架时间为空--用例断言成功，测试通过
+2021-06-23 18:03:19,635 - [test_product_put.py-->line:168] - INFO: 商品上架成功-备注为空--用例断言成功，测试通过
+2021-06-23 18:03:21,388 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-销售平台为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:03:24,777 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 18:03:25,325 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过
+2021-06-23 18:07:48,708 - [test_active_contract.py-->line:233] - INFO: 激活成功-激活商品合同协议--用例断言成功，测试通过
+2021-06-23 18:07:51,588 - [test_active_contract.py-->line:233] - INFO: 激活成功-激活商品合同协议传入时间及备注--用例断言成功，测试通过
+2021-06-23 18:07:54,373 - [test_active_contract.py-->line:233] - INFO: 激活失败-合同协议已激活再次进行激活--用例断言成功，测试通过
+2021-06-23 18:08:00,703 - [test_course_private.py-->line:283] - INFO: 订课成功-预定私教课-无兴趣课程--用例断言成功，测试通过
+2021-06-23 18:08:02,301 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定教师isTeacher为否--用例断言成功，测试通过
+2021-06-23 18:08:03,319 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定教师为isTeacher是--用例断言成功，测试通过
+2021-06-23 18:08:04,326 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否固定教师isTeacher为不存在的值--用例断言成功，测试通过
+2021-06-23 18:08:05,205 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否允许选择兴趣课程isInterest为是--用例断言成功，测试通过
+2021-06-23 18:08:06,161 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否允许选择兴趣课程isInterest为否--用例断言成功，测试通过
+2021-06-23 18:08:07,187 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否允许选择兴趣课程isInterest为不存在的值--用例断言成功，测试通过
+2021-06-23 18:08:08,040 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否学员自主订课isStudentBook为否--用例断言成功，测试通过
+2021-06-23 18:08:08,846 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否学员自主订课isStudentBook为不存在的值--用例断言成功，测试通过
+2021-06-23 18:08:09,605 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定上课班级isClasses为是--用例断言成功，测试通过
+2021-06-23 18:08:10,674 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否固定上课班级isClasses为否--用例断言成功，测试通过
+2021-06-23 18:08:11,554 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品特性是否固定上课班级isClasses不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:08:12,366 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否限制课节取消次数 isLimitCancel为否，可取消课节数cancelNumber为空--用例断言成功，测试通过
+2021-06-23 18:08:13,426 - [test_create_product.py-->line:70] - ERROR: 创建商品失败-商品特性是否限制课节取消次数 isLimitCancel为是，可取消课节数cancelNumber为空--用例断言失败，测试不通过
+'E00002' != '000000'
+- E00002
++ 000000
+
+2021-06-23 18:08:14,545 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品特性是否限制课节取消次数 为isLimitCancel是，可取消课节数字段cancelNumber不为空-6节--用例断言成功，测试通过
+2021-06-23 18:08:15,798 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期是否延长服务期isDelayPeriod为空--用例断言成功，测试通过
+2021-06-23 18:08:16,782 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期是否延长服务isDelayPeriod为否False--用例断言成功，测试通过
+2021-06-23 18:08:17,689 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期是否延长服务isDelayPeriod不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:08:18,509 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期执行过程中是否可操作冻结isFrozenPeriod为空--用例断言成功，测试通过
+2021-06-23 18:08:19,512 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期执行过程中是否可操作冻结isFrozenPeriod为否False--用例断言成功，测试通过
+2021-06-23 18:08:20,422 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期执行过程中是否可操作冻结isFrozenPeriod不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:08:21,295 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期延长服务期开始天数delayPeriodBefore为空--用例断言成功，测试通过
+2021-06-23 18:08:22,164 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期延长服务期开始天数delayPeriodBefore不为number类型--用例断言成功，测试通过
+2021-06-23 18:08:22,971 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期延长服务期结束天数delayPeriodAfter为空--用例断言成功，测试通过
+2021-06-23 18:08:23,989 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期延长服务期结束天数delayPeriodAfter不为number类型--用例断言成功，测试通过
+2021-06-23 18:08:24,826 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期延时卡可用时间阶段类型delayStageType为空--用例断言成功，测试通过
+2021-06-23 18:08:25,619 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期延时卡可用时间阶段类型delayStageType不为number类型--用例断言成功，测试通过
+2021-06-23 18:08:26,349 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期单次操作最大可冻结服务期的天数frozenPeriod为空--用例断言成功，测试通过
+2021-06-23 18:08:27,281 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期单次操作最大可冻结服务期的天数frozenPeriod不为integer类型--用例断言成功，测试通过
+2021-06-23 18:08:28,017 - [test_create_product.py-->line:67] - INFO: 创建商品成功-商品服务期可冻结服务期的次数frozenCount为空 --用例断言成功，测试通过
+2021-06-23 18:08:28,911 - [test_create_product.py-->line:67] - INFO: 创建商品失败-商品服务期可冻结服务期的次数frozenCount不为integer类型--用例断言成功，测试通过
+2021-06-23 18:08:29,529 - [test_create_product.py-->line:67] - INFO: 创建商品成功-签约是否允许学员签约时自选上课时间isSignChange为空--用例断言成功，测试通过
+2021-06-23 18:08:30,485 - [test_create_product.py-->line:67] - INFO: 创建商品成功-签约是否允许学员签约时自选上课时间isSignChange为否False--用例断言成功，测试通过
+2021-06-23 18:08:31,359 - [test_create_product.py-->line:67] - INFO: 创建商品失败-签约是否允许学员签约时自选上课时间isSignChange不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:08:32,094 - [test_create_product.py-->line:67] - INFO: 创建商品成功-签约时最多可选择延迟多少天上课signChangeDay为空--用例断言成功，测试通过
+2021-06-23 18:08:32,884 - [test_create_product.py-->line:67] - INFO: 创建商品失败-签约时最多可选择延迟多少天上课signChangeDay不为integer类型--用例断言成功，测试通过
+2021-06-23 18:08:33,676 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许注册免费赠送isRegisterGift为空--用例断言成功，测试通过
+2021-06-23 18:08:34,603 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许注册免费赠送isRegisterGift为否False--用例断言成功，测试通过
+2021-06-23 18:08:35,479 - [test_create_product.py-->line:67] - INFO: 创建商品失败-赠送是否允许注册免费赠送isRegisterGift不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:08:36,288 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许赠送给内部员工体验isStaffGift为空--用例断言成功，测试通过
+2021-06-23 18:08:37,180 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许赠送给内部员工体验isStaffGift为否False--用例断言成功，测试通过
+2021-06-23 18:08:38,061 - [test_create_product.py-->line:67] - INFO: 创建商品失败-赠送是否允许赠送给内部员工体验isStaffGift不为boolean类型--用例断言成功，测试通过
+2021-06-23 18:08:38,798 - [test_create_product.py-->line:70] - ERROR: 创建商品成功-赠送是否允许赠送给内部员工体验为isStaffGift是，赠送频率年giftYear为空--用例断言失败，测试不通过
+'E00002' != '000000'
+- E00002
++ 000000
+
+2021-06-23 18:08:39,654 - [test_create_product.py-->line:67] - INFO: 创建商品成功-赠送是否允许赠送给内部员工体验为isStaffGift是，赠送频率年giftYear不为integer类型--用例断言成功，测试通过
+2021-06-23 18:08:41,997 - [test_import_order.py-->line:205] - INFO: 导入商品订单成功--用例断言成功，测试通过
+2021-06-23 18:08:44,668 - [test_import_order.py-->line:205] - INFO: 导入商品订单成功-区号prefix为空--用例断言成功，测试通过
+2021-06-23 18:08:47,128 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-区号prefix不为string类型--用例断言失败，测试不通过
+2021-06-23 18:08:49,278 - [test_import_order.py-->line:205] - INFO: 导入商品订单失败-手机号mobile为空--用例断言成功，测试通过
+2021-06-23 18:08:51,700 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-手机号mobile不为string类型--用例断言失败，测试不通过
+2021-06-23 18:08:54,046 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-售卖平台订单编号salePlatformOrderNumber为空--用例断言失败，测试不通过
+2021-06-23 18:08:56,111 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-售卖平台订单编号salePlatformOrderNumber不为string类型--用例断言失败，测试不通过
+2021-06-23 18:08:58,289 - [test_import_order.py-->line:205] - INFO: 导入商品订单失败-售卖平台订单编号salePlatformOrderNumber已存在--用例断言成功，测试通过
+2021-06-23 18:09:00,503 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-商品数量quantity为空--用例断言失败，测试不通过
+2021-06-23 18:09:02,971 - [test_import_order.py-->line:208] - ERROR: 导入商品订单失败-商品数量quantity不为string类型--用例断言失败，测试不通过
+2021-06-23 18:09:04,998 - [test_product_put.py-->line:168] - INFO: 商品上架成功-商品id存在且商品未上架--用例断言成功，测试通过
+2021-06-23 18:09:06,776 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品id为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 18:09:08,112 - [test_product_put.py-->line:168] - INFO: 商品上架失败-商品id不为number类型--用例断言成功，测试通过
+2021-06-23 18:09:09,369 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-现售价为空--用例断言失败，测试不通过
+'业务服务异常，请检查代码.异常信息:null' != '业务服务异常，请检查代码.异常信息'
+- 业务服务异常，请检查代码.异常信息:null
+?                  -----
++ 业务服务异常，请检查代码.异常信息
+
+2021-06-23 18:09:10,695 - [test_product_put.py-->line:168] - INFO: 商品上架失败-现售价不为数字类型--用例断言成功，测试通过
+2021-06-23 18:09:12,037 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-现售价为负数--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:09:14,242 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品原单价为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:09:16,148 - [test_product_put.py-->line:168] - INFO: 商品上架失败-商品原单价不为number类型--用例断言成功，测试通过
+2021-06-23 18:09:17,661 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品数量为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:09:19,345 - [test_product_put.py-->line:168] - INFO: 商品上架成功-商品数量为2--用例断言成功，测试通过
+2021-06-23 18:09:21,010 - [test_product_put.py-->line:168] - INFO: 商品上架失败-商品数量不为number类型--用例断言成功，测试通过
+2021-06-23 18:09:22,510 - [test_product_put.py-->line:168] - INFO: 商品上架成功-商品名称为空--用例断言成功，测试通过
+2021-06-23 18:09:24,313 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-商品名称不为sting类型--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:09:26,093 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-是否立即发货为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 18:09:27,544 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即发货不为number类型--用例断言成功，测试通过
+2021-06-23 18:09:28,932 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即上架为空--用例断言成功，测试通过
+2021-06-23 18:09:30,327 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即上架为否-False，上架时间为空--用例断言成功，测试通过
+2021-06-23 18:09:31,806 - [test_product_put.py-->line:168] - INFO: 商品上架失败-是否立即上架不为布尔值类型--用例断言成功，测试通过
+2021-06-23 18:09:33,221 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-上架商品中文名为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 18:09:34,709 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-上架商品中文名不为string类型--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:09:36,528 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-售卖平台id为空--用例断言失败，测试不通过
+'E00001' != 'E00002'
+- E00001
+?      ^
++ E00002
+?      ^
+
+2021-06-23 18:09:37,968 - [test_product_put.py-->line:168] - INFO: 商品上架失败-售卖平台id不为number类型--用例断言成功，测试通过
+2021-06-23 18:09:39,421 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-售卖平台商品编号为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:09:41,244 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-售卖平台商品编号不为string类型--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:09:42,983 - [test_product_put.py-->line:168] - INFO: 商品上架成功-下架时间为空--用例断言成功，测试通过
+2021-06-23 18:09:44,586 - [test_product_put.py-->line:168] - INFO: 商品上架成功-备注为空--用例断言成功，测试通过
+2021-06-23 18:09:46,216 - [test_product_put.py-->line:171] - ERROR: 商品上架失败-销售平台为空--用例断言失败，测试不通过
+'000000' != 'E00002'
+- 000000
++ E00002
+
+2021-06-23 18:09:49,598 - [test_teacher_requirement.py-->line:70] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-23 18:09:50,202 - [test_teacher_requirement.py-->line:70] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过

@@ -1,0 +1,14 @@
+2021-06-21 09:51:32,561 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-21 09:51:33,173 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过
+2021-06-21 10:26:05,897 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-21 10:26:06,445 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过
+2021-06-21 10:43:10,204 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-21 10:43:10,722 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过
+2021-06-21 11:00:35,212 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-21 11:00:35,739 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过
+2021-06-21 11:01:12,880 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-21 11:01:13,440 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过
+2021-06-21 11:03:07,772 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-21 11:03:08,295 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过
+2021-06-21 11:05:03,210 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求成功-提交需求时间段教师未提交需求--用例断言成功，测试通过
+2021-06-21 11:05:03,746 - [test_teacher_requirement.py-->line:72] - INFO: 提交需求失败-提交需求时间小于当前时间--用例断言成功，测试通过
