@@ -11,7 +11,7 @@ import os
 import time
 from BeautifulReport import BeautifulReport
 from common.handle_path import REPORT_DIR, TESTCASE_DIR
-from common.handle_send_email import HandlerEmail
+# from common.handle_send_email import HandlerEmail
 
 
 def get_now_time():
