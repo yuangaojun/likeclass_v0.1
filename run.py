@@ -45,13 +45,6 @@ def run_unittest_report():
                         templates=1)
     # 运行用例，生成测试报告
     runner.run()
-    # runner.send_email(
-    #     host="smtp.exmail.qq.com",
-    #     port=465,
-    #     user="gaojun_ygj@meten.com",
-    #     password="gDQYeMJyZRv5u8ix",
-    #     to_addrs="betty_zxq@meten.com")
-
     # runner.run(count=3, interval=2)
 
 
